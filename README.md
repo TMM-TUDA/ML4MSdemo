@@ -8,6 +8,7 @@
 - Kernel regression
 
 ## Advanced algorithms
--- CNN
+- CNN
+- Bayesian 
 
 ## Term project
